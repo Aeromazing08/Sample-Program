@@ -18,6 +18,6 @@ public class Practice2
 
 		System.out.println("Results is : " +sum);
 
-		
+		System.exit.(0);
 	}
 }
